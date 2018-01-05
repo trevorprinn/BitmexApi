@@ -108,7 +108,7 @@ namespace BitmexApi
             try {
                 using (HttpWebResponse response = (HttpWebResponse)wex.Response) {
                     if (response == null) {
-                        return $"{wex.Message} - No repsonse data received";
+                        return $"{wex.Message} - No response data received";
                     }
 
                     using (Stream str = response.GetResponseStream())
