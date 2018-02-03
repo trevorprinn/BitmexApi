@@ -1,4 +1,4 @@
-﻿# BitexApi
+﻿# BitmexApi
 
 This is a very simple api for Bitmex based on the sample code from  
 https://github.com/BitMEX/api-connectors/blob/master/official-http/csharp/BitMEXAPI.cs
